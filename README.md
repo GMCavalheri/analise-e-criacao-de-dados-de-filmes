@@ -2,7 +2,7 @@
 
 Este projeto tem como objetivo gerar e analisar os dados sobre filmes, utilizando dados fictícios, gerados aleatóriamente no Python. 
 
-São gerados dois dados bancos de dados diferentes, um para treinar um recomendador de filmes e outro para algoritmos de aprendizado de máquina no geral.
+São gerados dois bancos de dados diferentes, um para treinar um recomendador de filmes e outro para algoritmos de aprendizado de máquina no geral.
 
 Depois é utilizado o algoritmo de aprendizado de máquina APRIORI, para criar um recomendador de filmes, baseado nos filmes assistidos.
 
